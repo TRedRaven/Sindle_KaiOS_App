@@ -1,7 +1,6 @@
 {
   "name": "Spindle_Battle_app",
-  "description": "A app made to connect to a VoIP_GRID server and provide simple
-and relieble connection for developing countries",
+  "description": "A app made to connect to a VoIP_GRID server and provide simple and relieble connection for developing countries",
   "launch_path": "/index.html",
   "icons": {
     "16": "/icons/icon16x16.png",
@@ -10,6 +9,6 @@ and relieble connection for developing countries",
     "128": "/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Red",
+    "name": "Red"
   }
 }
